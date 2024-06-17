@@ -4,7 +4,7 @@ document.getElementById('entityForm').addEventListener('submit', function(event)
 
     // Cloudmersive API key and URL
     const apiKey = 'c1da13c8-7e05-4773-8060-5774ba6d6cff';  // Replace with your actual Cloudmersive API key
-    const url = 'https://api.cloudmersive.com/nlp/ExtractEntitiesString';
+  //  const url = 'https://api.cloudmersive.com/nlp/ExtractEntitiesString';
 
     // Data to be sent in the API request
     const data = {
